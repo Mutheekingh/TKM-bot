@@ -2,12 +2,12 @@
 TKM bot v²
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +TKM-bot;MULTI+DEVICE+WHATSAPP+BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +K I N G H-bot;MULTI+DEVICE+WHATSAPP+BOT" alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
   <a href="https://github.com/Cod3Uchiha">
-    <img alt="TKM bot logo" height="200" src="https://telegra.ph/file/e07a3d933fb4cad0b3791.jpg">
+    <img alt="K I N G H-botlogo" height="200" src="https://telegra.ph/file/e07a3d933fb4cad0b3791.jpg">
   </a>
 </p>
 
@@ -18,11 +18,11 @@ TKM bot v²
   <a href="https://github.com/Cod3Uchiha/TKM-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Cod3Uchiha/TKM-bot?label=Watching&style=social"></a>
 </p>
 
- **TKM-bot Deployment Methods**
+ **K I N G H-bot Deployment Methods**
 
 •FORK THIS REPO
  <br>
- <a href='https://github.com/Cod3Uchiha/TKM-bot/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+ <a href='https://github.com/Cod3Uchiha/K I N G H-bot/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
  GET SESSION ID HERE
  <br>
@@ -75,11 +75,11 @@ _Termux Setup not recommended_
 
 <table>
   <tr>
-    <td>Danny</td>
+    <td>KINGH</td>
     <td>Cod3Uchiha</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/DannyAkintunde"><img src="https://avatars.githubusercontent.com/u/142972494?v=4" width="180"</td>
+    <td><a href="https://github.com/KINGH"><img src="https://avatars.githubusercontent.com/u/142972494?v=4" width="180"</td>
     <td><a href="https://github.com/Cod3Uchiha"><img src="https://telegra.ph/file/7d1d362a15f946d427db1.jpg" width="180"</td>
   </tr>
 </table>
