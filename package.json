@@ -1,5 +1,5 @@
 {
-  "name": "TKM bot",
+  "name": "K I N G H-bot",
   "version": "1",
   "description": "",
   "main": "index.js",
@@ -12,15 +12,15 @@
   "keywords": [
     "bot",
     "Baileys",
-    "TKM-BOT",
+    "K I N G H-bot",
     "whatsapp",
     "whatsapp-bot",
-    "Cod3Uchiha",
+    "kingh",
     "Manjiro-Sano-md",
-    "Tkm bot",
-    "CodeUchiha"
+    "K I N G H-bot",
+    "kingh"
   ],
-  "author": "Cod3Uchiha",
+  "author": "kingh",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
